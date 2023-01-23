@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/4fcc5e75-ef6c-4ef2-a749-7f3bd3d568ee/appservices/subscriptions/4fcc5e75-ef6c-4ef2-a749-7f3bd3d568ee/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/energyreflux",
-    "appService.deploySubpath": "."
-}
