@@ -102,7 +102,7 @@ const auth = async (req, res, next) => {
     }
 };
 
-app.get('',auth,(req,res)=>{
+app.get('/login',auth,(req,res)=>{
     res.redirect('success');
 });
 
